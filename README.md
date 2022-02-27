@@ -14,8 +14,3 @@ Add back the deleted test files after building your server as the testing files 
 Tomcat Server
 
 Make sure your Tomcat server is running in the background when jenkins is building the project from git repository.
-
-Selenium Test
-
-Tomcat server Must be running.
-Right click on SeleniumTest file and run as TestNG to test the content of web application running on Tomcat server.
